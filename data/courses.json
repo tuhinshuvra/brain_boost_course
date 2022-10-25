@@ -1,0 +1,85 @@
+[{
+    "id": "01",
+    "name": "JavaScript",
+    "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles. JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior. JavaScript can function as both a procedural and an object oriented language. Objects are created programmatically in JavaScript, by attaching methods and properties to otherwise empty objects at run time, as opposed to the syntactic class definitions common in compiled languages like C++ and Java. Once an object has been constructed it can be used as a blueprint (or prototype) for creating similar objects. JavaScript's dynamic capabilities include runtime object construction, variable parameter lists, function variables, dynamic script creation (via eval), object introspection (via for ... in), and source code recovery (JavaScript programs can decompile function bodies back into their source text). ",
+    "img": "/data/assets/images/javascript.png",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    }
+  },
+  {
+    "id": "02",
+    "name": "React JS",
+    "details": "ReactJS is JavaScript library used for building reusable UI components. According to React official documentation, following is the definition − React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time. Lots of people use React as the V in MVC. React abstracts away the DOM from you, offering a simpler programming model and better performance. React can also render on the server using Node, and it can power native apps using React Native. React implements one-way reactive data flow, which reduces the boilerplate and is easier to reason about than traditional data binding.",
+    "img": "/data/assets/images/reactjs.webp",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    }
+  },
+  {
+    "id": "03",
+    "name": "MongoDB",
+    "details": "MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases. NoSQL databases are quite useful for working with large sets of distributed data. MongoDB is a tool that can manage document-oriented information, store or retrieve information. MongoDB supports various forms of data. It is one of the many nonrelational database technologies that arose in the mid-2000s under the NoSQL banner -- normally, for use in big data applications and other processing jobs involving data that doesn't fit well in a rigid relational model. Instead of using tables and rows as in relational databases, the MongoDB architecture is made up of collections and documents.     Organizations can use Mongo DB for its ad-hoc queries, indexing, load balancing, aggregation, server-side JavaScript execution and other features.",
+    "img": "/data/assets/images/mongodb.webp",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    }
+  },
+  {
+    "id": "04",
+    "name": "JAVA",
+    "details": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc. Java Platform is a collection of programs that help programmers to develop and run Java programming applications efficiently. It includes an execution engine, a compiler, and a set of libraries in it. It is a set of computer software and specifications. James Gosling developed the Java platform at Sun Microsystems, and the Oracle Corporation later acquired it.",
+    "img": "/data/assets/images/java.jpg",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    }
+  },
+  {
+    "id": "05",
+    "name": "MySQL",
+    "details": "MySQL is a relational database management system (RDBMS) developed by Oracle that is based on structured query language (SQL). A database is a structured collection of data. It may be anything from a simple shopping list to a picture gallery or a place to hold the vast amounts of information in a corporate network. In particular, a relational database is a digital store collecting data and organizing it according to the relational model. In this model, tables consist of rows and columns, and relationships between data elements all follow a strict logical structure. An RDBMS is simply the set of software tools used to actually implement, manage, and query such a database. MySQL is integral to many of the most popular software stacks for building and maintaining everything from customer-facing web applications to powerful, data-driven B2B services. Its open-source nature, stability, and rich feature set, paired with ongoing development and support from Oracle, have meant that internet-critical organizations such as Facebook, Flickr, Twitter, Wikipedia, and YouTube all employ MySQL backends.",
+    "img": "/data/assets/images/mysql.jpg",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    }
+  },
+  {
+    "id": "06",
+    "name": "Python",
+    "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn’t specialized for any specific problems. This versatility, along with its beginner-friendliness, has made it one of the most-used programming languages today. A survey conducted by industry analyst firm RedMonk found that it was the second-most popular programming language among developers in 2021. Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances. “Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”",
+    "img": "/data/assets/images/python.png",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    }
+  },
+  {
+    "id": "07",
+    "name": "PHP",
+    "details": "The term PHP is an acronym for PHP: Hypertext Preprocessor. PHP is a server-side scripting language designed specifically for web development. It is open-source which means it is free to download and use. It is very simple to learn and use. The files have the extension “.php”. Rasmus Lerdorf inspired the first version of PHP and participated in the later versions. It is an interpreted language and it does not require a compiler. PHP code is executed in the server. It can be integrated with many databases such as Oracle, Microsoft SQL Server, MySQL, PostgreSQL, Sybase, and Informix. It is powerful to hold a content management system like WordPress and can be used to control user access. It supports main protocols like HTTP Basic, HTTP Digest, IMAP, FTP, and others. Websites like www.facebook.com and www.yahoo.com are also built on PHP.  One of the main reasons behind this is that PHP can be easily embedded in HTML files and HTML codes can also be written in a PHP file.  The thing that differentiates PHP from the client-side language like HTML is, that PHP codes are executed on the server whereas HTML codes are directly rendered on the browser. PHP codes are first executed on the server and then the result is returned to the browser. The only information that the client or browser knows is the result returned after executing the PHP script on the server and not the actual PHP codes present in the PHP file. Also, PHP files can support other client-side scripting languages like CSS and JavaScript.",
+    "img": "/data/assets/images/php.jpg",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    }
+  },
+  {
+    "id": "08",
+    "name": "Go",
+    "details": "The Go programming language has been known to the developer community for a few years, but can definitely still astonish. Not without reason, it successfully keeps its position in the top 10 most loved languages. More than 80,000 developers have shared their opinions. Golang gets almost 63% of their votes for “loved”. We can’t imagine a better recommendation, but we prepared this overview anyway to provide you, in my opinion, with the most important information about the Go programming language. The story of the Go programming language started at Google, when three engineers, Robert Griesemer, Rob Pike, and Ken Thompson grew weary of C++'s complexity, and the lack of a simple language providing efficient compilation and execution. That's why on September 21, 2007, they started designing a new language. It took them two years before, on November 10, 2009, the Go programming language became a public open source project. After three more years, in March 2012, version 1.0 of the Go language was released. The Go inventors’ main goal was to combine the ease of programming from an interpreted, dynamically-typed language with the efficiency and safety coming from a statically-typed, compiled language. Moreover, the Go language was intended to support network and multicore computing, and to accelerate the coding process. ",
+    "img": "/data/assets/images/golang.png",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    }
+  },
+  {
+    "id": "09",
+    "name": "All Courses"
+  }
+]
