@@ -8,7 +8,7 @@ const port = process.env.PORT || 5000;
 const courses = require('./data/courses.json');
 
 app.get('/', (req, res) => {
-    res.send('Brain food server in running.')
+    res.send('Brain Boost Course Server in running.')
 })
 
 app.get('/courses', (req, res) => {
@@ -22,5 +22,6 @@ app.get('/courses/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('Brain food server is running on Port:', port);
+    console.log('Brain Boost Course Server is Running on Port:', port);
+    console.log('Thanks you! for using the server. ');
 })
